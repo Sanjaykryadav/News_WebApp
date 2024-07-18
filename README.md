@@ -15,9 +15,13 @@
 * Technologies Used
 
 -> React: A JavaScript library for building user interfaces.
+
 -> React Router: A standard library for routing in React applications.
+
 ->Bootstrap: A front-end framework for responsive design and styling.
+
 -> NewsAPI: An API service to fetch the latest news articles.
+
 
 * Installation and Setup
 
