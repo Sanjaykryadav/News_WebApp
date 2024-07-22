@@ -1,4 +1,4 @@
-// App.js
+
 import React from "react";
 import NavBar2 from "./components/NavBar2";
 import NavBar1 from "./components/NavBar1";
